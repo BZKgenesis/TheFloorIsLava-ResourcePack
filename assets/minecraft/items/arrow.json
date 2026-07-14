@@ -20,6 +20,13 @@
           "type": "model",
           "model": "item/arrow_left"
         }
+      },
+      {
+        "when":  "back",
+        "model": {
+          "type": "model",
+          "model": "item/arrow_back"
+        }
       }
     ]
   }
