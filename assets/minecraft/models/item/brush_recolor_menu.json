@@ -2,6 +2,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/arrow_back"
+    "layer0": "item/brush_recolor_menu"
   }
 }
