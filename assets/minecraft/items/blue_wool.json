@@ -13,6 +13,13 @@
           "type": "model",
           "model": "item/blue_wool_manage_team"
         }
+      },
+      {
+        "when":  "info_team",
+        "model": {
+          "type": "model",
+          "model": "item/blue_wool_info_team"
+        }
       }
     ]
   }
